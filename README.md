@@ -151,7 +151,7 @@ root
 
 ```bash
 # clone
-git clone https://github.com/Birkbeck/msc-project-source-code-files-24-25-tanveer-99.git
+git clone https://github.com/Birkbeck/anomaly_based_intrusion_detection_system_with_hybrid_approach.git
 cd msc-project-source-code-files-24-25-tanveer-99
 
 # create environment (optional but recommended)
@@ -174,4 +174,5 @@ To reconstruct the results, run the notebooks in this order.
 ---
 
 In the `artifacts` folder, the joblib files are created. Because these files are very large, they are uploaded to this [Google drive link](https://drive.google.com/drive/folders/1rXfWz_JDG5E5VEPpD8vQhi_WzCQgz2qY?usp=sharing) along with the actual dataset and the cleaned version also.
+
 
